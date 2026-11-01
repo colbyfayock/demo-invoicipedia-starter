@@ -5,7 +5,7 @@ A Next.js invoice-management UI prototype with sample dashboard, invoice detail 
 ## Use this template
 
 ```bash
-
+npx create-next-app -e https://github.com/colbyfayock/demo-invoicipedia-starter
 ```
 
 ## Local setup
