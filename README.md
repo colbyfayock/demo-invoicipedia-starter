@@ -1,23 +1,20 @@
 # Invoicipedia Starter
 
-A starter project focused on invoicipedia, built with Next.js.
+A Next.js invoice-management UI prototype with sample dashboard, invoice detail and payment views, and a non-persistent create-invoice form backed by hard-coded sample data.
 
 ## Use this template
 
 ```bash
-npx create-next-app -e https://github.com/colbyfayock/demo-invoicipedia-starter
+
 ```
 
 ## Local setup
 
-Install dependencies with npm and start the development server:
+Install dependencies with npm, then start the development server:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the app.
-
-Use `npm run build` to build the project.
-Use `npm run start` to run the production build.
+Use `npm run build` to create a production build.
